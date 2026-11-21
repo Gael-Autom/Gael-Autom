@@ -2,7 +2,7 @@
 
 ### Ingeniero en Mecatrónica | Automatización Industrial | Sistemas Embebidos | Python
 
-Soy egresado de **Ingeniería en Mecatrónica**, interesado en el desarrollo de soluciones que integren programación, electrónica, control y sistemas mecánicos para automatizar procesos y resolver problemas de ingeniería.
+Soy **Ingeniero Mecatrónico**, interesado en el desarrollo de soluciones que integren programación, electrónica, control y sistemas mecánicos para automatizar procesos y resolver problemas de ingeniería.
 
 Mi enfoque está orientado a la **automatización industrial, los sistemas embebidos y el desarrollo de software aplicado a la ingeniería**. Me interesa diseñar, programar e integrar sistemas que conecten el mundo físico con el digital.
 
